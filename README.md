@@ -18,7 +18,7 @@
 ### **Backend** (chạy **Backend** trước)
 - B1: `cd server`
 - B2: `npm install`
-- B3: Dùng lệnh này để migrate thuộc tính của database vào MySQL 
+- B3: Dùng lệnh này để migrate thuộc tính của database vào MySQL (Prisma)
 ```sh
 npx prisma migrate dev --name init
 
