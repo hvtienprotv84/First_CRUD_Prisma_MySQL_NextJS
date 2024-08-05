@@ -13,6 +13,8 @@
 - Prisma
 - MySQL (XAMPP)
 - Tailwind CSS
+- NodeJS
+- ExpressJS
 
 **Lưu Ý**
 - file `.env` truyền đường dẫn database MySQL vào.
