@@ -6,10 +6,13 @@
 
 <h1 align="center">First CRUD Prisma - MySQL - NextJS</h1>
 
-- a
-- a
-- a
-- a
+- NextJS
+- ReactJS
+- TypeScript
+- Axios
+- Prisma
+- MySQL (XAMPP)
+- Tailwind CSS
 
 **Lưu Ý**
 - file `.env` truyền đường dẫn database MySQL vào.
