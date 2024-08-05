@@ -1,6 +1,6 @@
 <div align="center"> 
     <img className="w-[60px]" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prisma_icon_130234.png" alt="" width="250" />
-    <img className="w-[60px]" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="" width="250" />
+    <img className="w-[60px]" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="" width="250" /> &nbsp; &nbsp;
     <img className="w-[60px] ml-[10px]" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="" width="250" />
 </div>
 
