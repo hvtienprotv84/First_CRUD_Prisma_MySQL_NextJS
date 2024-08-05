@@ -5,10 +5,10 @@
 </div>
 
 <h1 align="center">First CRUD Prisma - MySQL - NextJS</h1>
--
--
--
--
+- a
+- a
+- a
+- a
 
 **Lưu Ý**
 - file `.env` truyền đường dẫn database MySQL vào.
